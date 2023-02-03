@@ -32,7 +32,17 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
+}
+
+.card {
+  border: 20px;
+  background-color: black;
+  color: white;
+  margin: 10px;
+  padding: 10px;
+
 }
